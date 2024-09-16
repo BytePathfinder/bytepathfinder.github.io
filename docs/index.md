@@ -8,7 +8,7 @@ hero:
   tagline: 一步步成为“全栈工程师”
   image:
     src: /public/images/logo.png
-    alt: logo
+    # alt: logo
   actions:
     - theme: brand
       text: Java
