@@ -8,7 +8,7 @@ export default defineConfig({
   lastUpdated: true,
   themeConfig: {
     siteTitle: "XuBiao's Tech Docs",
-    logo: '../public/images/logo.png',
+    logo: '/images/logo.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },

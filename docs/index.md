@@ -7,7 +7,7 @@ hero:
   text: "java、js、python技术文档"
   tagline: 一步步成为“全栈工程师”
   image:
-    src: /public/images/logo.png
+    src: /images/logo.png
     # alt: logo
   actions:
     - theme: brand
