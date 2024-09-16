@@ -47,7 +47,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/BytePathfinder/bytepathfinder.github.io' }
     ],
     footer: {
       message: '好好学习，天天向上！',
